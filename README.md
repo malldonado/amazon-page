@@ -7,9 +7,9 @@
   <img width="48" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="vscode-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="vscode-logo"/>
   <img width="48" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667629280885/rcnlZ-wkv.png" alt="vscode-logo"/>
-  <img width="48" src="https://banner2.cleanpng.com/20180817/kzy/kisspng-logo-paypal-vector-graphics-product-computer-icons-5b770500c0f487.2584873515345267207904.jpg" alt="vscode-logo"/>
-  <img width="48" src="https://logos-world.net/wp-content/uploads/2022/12/Stripe-Symbol.png" alt="vscode-logo"/>
-  <img width="48" src="https://w7.pngwing.com/pngs/207/811/png-transparent-algolia-logo-logos-logos-and-brands-icon.png" alt="vscode-logo"/>
+  <img width="48" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889684-paypal_82515.png" alt="vscode-logo"/>
+  <img width="48" src="https://www.svgrepo.com/show/331592/stripe-v2.svg" alt="vscode-logo"/>
+  <img width="48" src="https://cdn.shopify.com/app-store/listing_images/df5eea6375c938fb30ff095238fd154e/icon/CLmzsKjGjfsCEAE=.png" alt="vscode-logo"/>
   <img width="48" src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" alt="vscode-logo"/>
-  <img width="48" src="https://images.ctfassets.net/6yom6slo28h2/627q8AupcAWUiqMwkcESeS/d04f3bf1523f22249b0b80770fa2224e/featured-aws-cloud.png" alt="vscode-logo"/>
+  <img width="48" src="https://static-00.iconduck.com/assets.00/general-awscloud-icon-512x512-tq2r4lgg.png" alt="vscode-logo"/>
 </p>
